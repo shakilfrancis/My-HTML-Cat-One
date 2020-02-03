@@ -1,0 +1,27 @@
+body{background-image: url("resources/say.jpg");background-size: 100%}
+.j{height: 40vh;display: flex}
+.first{height: 70vh;
+    width: 50%;text-align: center;padding-top: 30vh;
+    background-color: #6e7779;opacity: 0.4;
+    color: #ffffff;}
+.second{height: 40vh;
+    width: 50%;text-align: center;padding-top: 30vh}
+.h{border-collapse: collapse;
+    text-align: left;
+    color: black;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: unset;
+    border-bottom-color: #ffa31b;
+    border-left: none;
+    border-right: none;
+    border-top: none}
+.i{background: #ffa31b;
+    width: 150px;
+    height: 30px;
+    font-weight: unset;
+    color: #ffffff;margin-left: 30%;
+    margin-right: 45%}
+.y{background-color: white;opacity: 0.8;
+    margin-right: 12%;
+    margin-left: 30%;}
